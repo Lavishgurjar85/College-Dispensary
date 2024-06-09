@@ -44,7 +44,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/medical-management-system.git
+git clone https://github.com/Lavishgurjar85/College-Dispensary.git
 Change to the project directory:
 bash
 Copy code
