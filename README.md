@@ -57,6 +57,7 @@ Environment Variables
 Create a .env file in the root directory of the project and add the following environment variables:
 
 makefile
+
 Copy code
 SECRET=yourSecretKey
 Usage
